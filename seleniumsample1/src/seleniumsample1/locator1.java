@@ -1,11 +1,7 @@
 package seleniumsample1;
 
-import java.sql.DriverManager;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.interactions.SendKeysAction;
-import org.openqa.selenium.support.ui.Select;
 
 @SuppressWarnings("unused")
 public class locator1 {

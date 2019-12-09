@@ -1,7 +1,5 @@
 package seleniumsample1;
 
-import java.awt.Dimension;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.Rectangle;

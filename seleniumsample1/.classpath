@@ -21,5 +21,15 @@
 	<classpathentry kind="lib" path="D:/Selenium Jars/WebDriverManager/jsoup-1.11.3.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium Jars/WebDriverManager/slf4j-api-1.7.25.jar"/>
 	<classpathentry kind="lib" path="D:/Selenium Jars/WebDriverManager/webdrivermanager-3.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6-javadoc"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6-sources"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6-tests"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6-test-sources"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium Jars/commons-io-2.6/commons-io-2.6-test-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
